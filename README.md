@@ -1,3 +1,5 @@
+Hello there! (Obi-Wan meme)
+
 👨‍💻 Habilidades Técnicas: Python | SQL | Ciência de Dados | Java | PHP
 
 🎓 Educação: 📚 Engenharia Elétrica | Sistemas de Informação (Atualmente cursando)
