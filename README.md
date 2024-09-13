@@ -1,7 +1,7 @@
 Hello there!! 
 
-👨‍💻 Habilidades Técnicas: Python | SQL | Ciência de Dados | Java | PHP
+👨‍💻 Techinical skills: Python | SQL | Data Science | HTML & CSS & JS | Machine Learning | Automations
 
-🎓 Educação: 📚 Engenharia Elétrica | Sistemas de Informação (Atualmente cursando)
+🎓 Education: 📚 Electrical Engineering | Information Systems (Currently studying)
 
-🏆 Certificação: 📜 Certificado em Python Development (2023) | [Mentorama] | 📜 Certificado em Desenvolvimento Java (2023) [Mentorama] | 📜 Certificado em SQL (2022) [Mentorama] | 📜 Certificado em Inglês (2020) [ACBEU] | Certificado em Excel (2022) [Fundação Bradesco]
+🏆 Certification: 📜 Certified in Python Development (2023) | [Mentorama] | 📜 Certificate in Java Development (2023) [Mentorama] | 📜 Certified in SQL (2022) [Mentorama] | 📜 Certificate in English (2020) [ACBEU]
